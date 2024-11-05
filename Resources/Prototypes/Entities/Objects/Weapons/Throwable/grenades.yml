@@ -416,7 +416,7 @@
         - Scientist
         - Borg
 # Corvax-HiddenDesc-End
-
+          
 - type: entity
   parent: [ GrenadeBase, BaseRestrictedContraband ]
   id: SmokeGrenade
@@ -450,7 +450,7 @@
     solution:
       reagents:
       - ReagentId: SpaceCleaner
-        Quantity: 50 # BACKMEN EDIT, originally 30
+        Quantity: 50
 
 - type: entity
   parent: SmokeGrenade
